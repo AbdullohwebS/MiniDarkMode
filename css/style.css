@@ -1,0 +1,10 @@
+.dark-mode {
+    background-color: white;
+    color: black;
+}
+.dark-mode #btn2{
+    background-color: black;
+}
+.dark-mode li {
+    color: white;
+}
